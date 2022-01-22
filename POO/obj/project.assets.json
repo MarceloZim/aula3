@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Apex03\\source\\repos\\aula3\\aula3\\arrays.csproj",
-      "projectName": "arrays",
-      "projectPath": "C:\\Users\\Apex03\\source\\repos\\aula3\\aula3\\arrays.csproj",
+      "projectUniqueName": "C:\\Users\\Apex03\\source\\repos\\aula3\\POO\\POO.csproj",
+      "projectName": "POO",
+      "projectPath": "C:\\Users\\Apex03\\source\\repos\\aula3\\POO\\POO.csproj",
       "packagesPath": "C:\\Users\\Apex03\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Apex03\\source\\repos\\aula3\\aula3\\obj\\",
+      "outputPath": "C:\\Users\\Apex03\\source\\repos\\aula3\\POO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Apex03\\AppData\\Roaming\\NuGet\\NuGet.Config",

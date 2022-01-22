@@ -1,0 +1,14 @@
+C:\Users\Apex03\source\repos\aula3\POO.Exercicio.Escola\bin\Debug\netcoreapp3.1\POO.Exercicio.Escola.exe
+C:\Users\Apex03\source\repos\aula3\POO.Exercicio.Escola\bin\Debug\netcoreapp3.1\POO.Exercicio.Escola.deps.json
+C:\Users\Apex03\source\repos\aula3\POO.Exercicio.Escola\bin\Debug\netcoreapp3.1\POO.Exercicio.Escola.runtimeconfig.json
+C:\Users\Apex03\source\repos\aula3\POO.Exercicio.Escola\bin\Debug\netcoreapp3.1\POO.Exercicio.Escola.runtimeconfig.dev.json
+C:\Users\Apex03\source\repos\aula3\POO.Exercicio.Escola\bin\Debug\netcoreapp3.1\POO.Exercicio.Escola.dll
+C:\Users\Apex03\source\repos\aula3\POO.Exercicio.Escola\bin\Debug\netcoreapp3.1\POO.Exercicio.Escola.pdb
+C:\Users\Apex03\source\repos\aula3\POO.Exercicio.Escola\obj\Debug\netcoreapp3.1\POO.Exercicio.Escola.csproj.AssemblyReference.cache
+C:\Users\Apex03\source\repos\aula3\POO.Exercicio.Escola\obj\Debug\netcoreapp3.1\POO.Exercicio.Escola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apex03\source\repos\aula3\POO.Exercicio.Escola\obj\Debug\netcoreapp3.1\POO.Exercicio.Escola.AssemblyInfoInputs.cache
+C:\Users\Apex03\source\repos\aula3\POO.Exercicio.Escola\obj\Debug\netcoreapp3.1\POO.Exercicio.Escola.AssemblyInfo.cs
+C:\Users\Apex03\source\repos\aula3\POO.Exercicio.Escola\obj\Debug\netcoreapp3.1\POO.Exercicio.Escola.csproj.CoreCompileInputs.cache
+C:\Users\Apex03\source\repos\aula3\POO.Exercicio.Escola\obj\Debug\netcoreapp3.1\POO.Exercicio.Escola.dll
+C:\Users\Apex03\source\repos\aula3\POO.Exercicio.Escola\obj\Debug\netcoreapp3.1\POO.Exercicio.Escola.pdb
+C:\Users\Apex03\source\repos\aula3\POO.Exercicio.Escola\obj\Debug\netcoreapp3.1\POO.Exercicio.Escola.genruntimeconfig.cache

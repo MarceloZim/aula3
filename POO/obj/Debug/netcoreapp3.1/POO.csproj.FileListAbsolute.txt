@@ -1,0 +1,14 @@
+C:\Users\Apex03\source\repos\aula3\POO\bin\Debug\netcoreapp3.1\POO.exe
+C:\Users\Apex03\source\repos\aula3\POO\bin\Debug\netcoreapp3.1\POO.deps.json
+C:\Users\Apex03\source\repos\aula3\POO\bin\Debug\netcoreapp3.1\POO.runtimeconfig.json
+C:\Users\Apex03\source\repos\aula3\POO\bin\Debug\netcoreapp3.1\POO.runtimeconfig.dev.json
+C:\Users\Apex03\source\repos\aula3\POO\bin\Debug\netcoreapp3.1\POO.dll
+C:\Users\Apex03\source\repos\aula3\POO\bin\Debug\netcoreapp3.1\POO.pdb
+C:\Users\Apex03\source\repos\aula3\POO\obj\Debug\netcoreapp3.1\POO.csproj.AssemblyReference.cache
+C:\Users\Apex03\source\repos\aula3\POO\obj\Debug\netcoreapp3.1\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apex03\source\repos\aula3\POO\obj\Debug\netcoreapp3.1\POO.AssemblyInfoInputs.cache
+C:\Users\Apex03\source\repos\aula3\POO\obj\Debug\netcoreapp3.1\POO.AssemblyInfo.cs
+C:\Users\Apex03\source\repos\aula3\POO\obj\Debug\netcoreapp3.1\POO.csproj.CoreCompileInputs.cache
+C:\Users\Apex03\source\repos\aula3\POO\obj\Debug\netcoreapp3.1\POO.dll
+C:\Users\Apex03\source\repos\aula3\POO\obj\Debug\netcoreapp3.1\POO.pdb
+C:\Users\Apex03\source\repos\aula3\POO\obj\Debug\netcoreapp3.1\POO.genruntimeconfig.cache
